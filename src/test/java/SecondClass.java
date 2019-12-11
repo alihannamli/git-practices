@@ -4,5 +4,6 @@ public class SecondClass {
 
         String myname = "Fatih";
         System.out.println(myname);
+        System.out.println("third line");
     }
 }
